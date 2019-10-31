@@ -1,0 +1,3 @@
+XcodeをインストールしたMacでTestMoveAction.xcodeprojを開くと編集画面が表示されると思います。
+
+TestMoveAction\TestScene.swiftにゲームのプログラムが書かれています。
